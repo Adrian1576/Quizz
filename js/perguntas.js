@@ -3,32 +3,28 @@ export const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "O que é inteligência artificial (IA)?",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Inteligência Artificial (IA) é um campo da ciência da computação que busca criar sistemas e máquinas capazes de realizar tarefas que normalmente requerem inteligência humana. Essas tarefas incluem reconhecimento de padrões, aprendizado, tomada de decisões e resolução de problemas. A IA pode ser dividida em duas categorias principais: IA fraca (ou estreita), que é projetada para tarefas específicas, e IA forte (ou geral), que tem a capacidade de realizar qualquer tarefa cognitiva humana."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Qual é a diferença entre aprendizado supervisionado e não supervisionado?",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "No aprendizado supervisionado, o modelo é treinado com um conjunto de dados que contém pares de entrada e saída, permitindo que o sistema aprenda a mapear entradas para saídas corretas. Exemplos incluem classificação e regressão. Já no aprendizado não supervisionado, o modelo trabalha com dados que não têm rótulos ou respostas conhecidas, buscando padrões ou estruturas ocultas nos dados. Exemplos incluem agrupamento e redução de dimensionalidade."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "A inteligencia artificial usa uma base de dados para gerar respostas tentando ao máximo o acerto garatido.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "O que são redes neurais e como elas funcionam?",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Redes neurais são um tipo de modelo de IA inspirado no funcionamento do cérebro humano. Elas consistem em camadas de neurônios artificiais interconectados, onde cada conexão tem um peso que é ajustado durante o treinamento. As redes neurais processam informações passando-as através dessas camadas, ajustando os pesos com base nos erros observados para melhorar a precisão das previsões ou classificações. Elas são amplamente usadas em tarefas como reconhecimento de imagem, processamento de linguagem natural e previsão de séries temporais.",
                 ],
                 proxima: 3,
             },
