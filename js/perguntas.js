@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Inteligência Artificial (IA) é um campo da ciência da computação que busca desenvolver sistemas e máquinas capazes de simular funções cognitivas humanas, como aprendizado, raciocínio, percepção e tomada de decisão. Ela envolve uma variedade de técnicas e abordagens,",
         alternativas: [
             {
                 texto: "O que é inteligência artificial (IA)?",
