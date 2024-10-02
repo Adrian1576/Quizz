@@ -150,14 +150,14 @@ export const perguntas = [
         enunciado: "Geração de Conteúdo: A IA pode criar textos, poemas ou histórias baseadas em padrões aprendidos a partir de grandes volumes de dados. Isso inclui misturar estilos, temas e vozes.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "O que é processamento de linguagem natural (PLN)?",
                 afirmacao: [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
                     "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "O que é um modelo pré-treinado?",
                 afirmacao: [
                     "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
                     "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
