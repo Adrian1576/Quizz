@@ -147,7 +147,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Geração de Conteúdo: A IA pode criar textos, poemas ou histórias baseadas em padrões aprendidos a partir de grandes volumes de dados. Isso inclui misturar estilos, temas e vozes.",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
