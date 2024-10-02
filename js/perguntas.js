@@ -29,11 +29,11 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "A inteligência artificial (IA) tem impactado diversas áreas de maneira significativa. Aqui estão algumas delas:",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Saúde: Diagnóstico de doenças, análise de imagens médicas, descoberta de medicamentos e monitoramento de pacientes.",
+                    "Educação: Personalização do aprendizado, tutores virtuais e análise de desempenho dos alunos.",
+                    "Financeiro: Análise de risco, automação de processos financeiros e detecção de fraudes."
                 ],
                 proxima: 4,
             },
@@ -52,11 +52,11 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Surgimento da IA",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "1950: Alan Turing publica o artigo Computing Machinery and Intelligence, onde propõe o famoso Teste de Turing para avaliar se uma máquina pode exibir comportamento inteligente.",
+                    "1956: O termo inteligência artificial é cunhado durante a Conferência de Dartmouth, organizada por John McCarthy, Marvin Minsky, Nathaniel Rochester e Claude Shannon. Este evento é considerado o nascimento formal da IA como um campo de estudo.",
+                    "Esses marcos representam apenas uma parte da evolução da IA, que continua a se desenvolver rapidamente. Se você tiver interesse em alguma figura ou evento específico, posso fornecer mais detalhes!"
                 ],
                 proxima: 4,
             },
