@@ -29,7 +29,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "A inteligência artificial (IA) tem impactado diversas áreas de maneira significativa. Aqui estão algumas delas:",
+                texto: "O que é aprendizado de máquina?",
                 afirmacao: [
                     "Saúde: Diagnóstico de doenças, análise de imagens médicas, descoberta de medicamentos e monitoramento de pacientes.",
                     "Educação: Personalização do aprendizado, tutores virtuais e análise de desempenho dos alunos.",
@@ -84,7 +84,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Aprendizado de máquina é um subcampo da inteligência artificial que permite que sistemas aprendam e melhorem com a experiência sem serem explicitamente programados. Utiliza algoritmos para identificar padrões em dados.",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
