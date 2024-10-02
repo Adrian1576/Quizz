@@ -19,7 +19,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "A inteligencia artificial usa uma base de dados para gerar respostas tentando ao máximo o acerto garatido.",
+        enunciado: "A inteligencia artificial é um campo da ciencia da computação que busca criar sistemas e maquinas capazes de realizar tarefas que normalmente requerem inteligencia humana.",
         alternativas: [
             {
                 texto: "O que são redes neurais e como elas funcionam?",
